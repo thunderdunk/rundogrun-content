@@ -10,5 +10,5 @@ A tired dog is a happy dog.
 
 
 IMAGE:
-  - RDR-Motion.jpg
+RDR-Motion.jpg
   - Caption: Rowdy and Howdy on a run at the park last summer

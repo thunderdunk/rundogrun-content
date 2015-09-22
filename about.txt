@@ -1,5 +1,4 @@
-TITLE:
-About
+TITLE: About
 
 
 CONTENT:
@@ -13,5 +12,5 @@ Church-key vinyl kale chips PBR&B aesthetic wolf, bitters ethical Echo Park. Fla
 
 
 IMAGE:
-  - RDR-BallMouth.jpg
+RDR-BallMouth.jpg
   - Caption: Malcolm, the family dog
