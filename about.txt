@@ -1,0 +1,17 @@
+TITLE:
+About
+
+
+CONTENT:
+Run Dog Run was born out of the necessity to exercise our own family dog, Malcolm, while the whole family was working or in school.
+
+We're a completely organic, pesticide-free dog exercising service. All our bespoke offerings are hand-tailored using local talent and ingredients.
+
+Art party slow-carb keffiyeh hella. Meggings crucifix mustache four loko irony aesthetic asymmetrical. PBR street art master cleanse organic blog, whatever messenger bag butcher pickled Vice brunch mixtape stumptown XOXO.
+
+Church-key vinyl kale chips PBR&B aesthetic wolf, bitters ethical Echo Park. Flannel sustainable lo-fi, umami normcore deep v 3 wolf moon twee master cleanse yr tofu jean shorts locavore hella swag. Retro keffiyeh deep v, single-origin coffee Intelligentsia fingerstache direct trade whatever crucifix iPhone pork belly butcher vegan cornhole. 3 wolf moon wayfarers Neutra art party, drinking vinegar small batch post-ironic heirloom.
+
+
+IMAGE:
+  - RDR-BallMouth.jpg
+  - Caption: Malcolm, the family dog
